@@ -22,14 +22,14 @@ The displays are multiplexed, i.e. only one digit is illuminated at one time. Wi
 </p>
 
 # Fibonacci Sequence
-Here, the processor computes the first few values of the Fibonacci sequence. You can see the values shown in binary and decimal on the output display.
+Here, the processor is running a program which computes the first few values of the Fibonacci sequence and sends them to the output register. You can see the values shown in binary and decimal on the output display.
 <p align="center">
   <img src="img/demo9.gif" height=200> <img src="img/demo6.gif" height=200> <img src="img/demo4.gif" height=200>
 </p>
 
 # Block Diagram
 
-<p align="center">![block](https://user-images.githubusercontent.com/18043699/146846472-edf6c8cf-ab0c-4a57-8576-4b8bbac0c262.png)
+<p align="center">
 
   <img src="img/block.png" width=700>
 </p>
