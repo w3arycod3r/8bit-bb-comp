@@ -12,23 +12,25 @@ Ben Eater inspired 8-bit breadboard computer with extra 7-seg display modes, pro
 
 
 <p align="center">
-  <img src="img/demo3.gif" width=400> <img src="img/demo4.gif" width=400>
+  <img src="img/demo3.gif" width=400>
 </p>
 
+# 7-Segment Displays
+The displays are multiplexed, i.e. only one digit is illuminated at one time. With a high enough frequency and persistence of vision, it appears that all digits are lit up together. Below you can see this effect at a low frequency.
 <p align="center">
-  <img src="img/demo5.gif" height=250> <img src="img/demo6.gif" height=250> 
+  <img src="img/demo5.gif" width=400>
 </p>
 
+# Fibonacci Sequence
+Here, the processor computes the first few values of the Fibonacci sequence. You can see the values shown in binary and decimal on the output display.
 <p align="center">
-  <img src="img/demo7.gif" width=400> <img src="img/demo8.gif" width=400>
-</p>
-
-<p align="center">
-  <img src="img/demo9.gif" height=250>
+  <img src="img/demo9.gif" height=200> <img src="img/demo6.gif" height=200> <img src="img/demo4.gif" height=200>
 </p>
 
 # Block Diagram
-<p align="center">
+
+<p align="center">![block](https://user-images.githubusercontent.com/18043699/146846472-edf6c8cf-ab0c-4a57-8576-4b8bbac0c262.png)
+
   <img src="img/block.png" width=700>
 </p>
 
@@ -37,4 +39,3 @@ https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
 https://github.com/beneater/eeprom-programmer  
 https://www.reddit.com/r/beneater/comments/g2dya8/finally_finished_my_8bit_build/  
 https://imgur.com/gallery/4DphJaJ  
-![block](https://user-images.githubusercontent.com/18043699/146836478-5e3808c8-2fac-43a3-8319-47b49df8c658.png)
