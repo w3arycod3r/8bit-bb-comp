@@ -1,5 +1,5 @@
 # 8bit-bb-comp
-Ben Eater inspired 8-bit breadboard computer with extra 7-seg display modes, program ROM, and LCD.
+Ben Eater [inspired](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU) 8-bit breadboard computer with extra 7-seg display modes, program ROM, and LCD.
 
 # Demo
 <p align="center">
@@ -15,6 +15,15 @@ Ben Eater inspired 8-bit breadboard computer with extra 7-seg display modes, pro
   <img src="img/demo3.gif" width=400>
 </p>
 
+# Wire Colors
+- Red = +5V
+- Black = Ground
+- Blue = Bus Connection
+- White = Clock
+- Orange = Reset
+- Yellow = Control Lines
+- Green = Misc Signals
+
 # 7-Segment Displays
 The displays are multiplexed, i.e. only one digit is illuminated at one time. With a high enough frequency and persistence of vision, it appears that all digits are lit up together. Below you can see this effect at a low frequency.
 <p align="center">
@@ -22,7 +31,7 @@ The displays are multiplexed, i.e. only one digit is illuminated at one time. Wi
 </p>
 
 # Fibonacci Sequence
-Here, the processor is running a program which computes the first few values of the Fibonacci sequence and sends them to the output register. You can see the values shown in binary and decimal on the output display.
+Here, the processor is running a program which computes the first few values of the Fibonacci [sequence](https://en.wikipedia.org/wiki/Fibonacci_number) and sends them to the output register. You can see the values shown in binary and decimal on the output display.
 <p align="center">
   <img src="img/demo9.gif" height=200> <img src="img/demo6.gif" height=200> <img src="img/demo4.gif" height=200>
 </p>
