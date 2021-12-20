@@ -12,7 +12,19 @@ Ben Eater inspired 8-bit breadboard computer with extra 7-seg display modes, pro
 
 
 <p align="center">
-  <img src="img/demo3.gif" width=400>
+  <img src="img/demo3.gif" width=400> <img src="img/demo4.gif" width=400>
+</p>
+
+<p align="center">
+  <img src="img/demo5.gif" height=250> <img src="img/demo6.gif" height=250> 
+</p>
+
+<p align="center">
+  <img src="img/demo7.gif" width=400> <img src="img/demo8.gif" width=400>
+</p>
+
+<p align="center">
+  <img src="img/demo9.gif" height=250>
 </p>
 
 # Block Diagram
