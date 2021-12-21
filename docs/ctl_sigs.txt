@@ -1,0 +1,23 @@
+Signal Name | Description
+:---: | :---:
+HLT | Halt clock
+M1I | Memory address register 1 in (RAM)
+RI  | RAM data in
+RO  | RAM data out
+IO  | Instruction register out
+II  | Instruction register in
+AI  | A register in
+AO  | A register out
+EO  | ALU out
+SU  | ALU subtract
+BI  | B register in
+BO  | B register out
+OI  | Output register in
+CE  | Program counter enable
+CO  | Program counter out
+J   | Jump (program counter in)
+FI  | Flags in
+M2I | Memory address register 2 in (ROM)
+RMO | ROM data out
+LRS | LCD Register Select (Cmd/Data)
+LCI | LCD in
