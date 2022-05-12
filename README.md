@@ -15,6 +15,13 @@ Ben Eater [inspired](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J
   <img src="img/demo3.gif" width=400>
 </p>
 
+# Numbers
+- 59 IC's  
+- 17 Breadboards  
+- 22 Discrete LEDs  
+- 13 Segmented Displays  
+- ∞ Wires :)
+
 # Wire Colors
 - Red = +5V
 - Black = Ground
